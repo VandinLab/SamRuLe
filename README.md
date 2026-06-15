@@ -16,7 +16,7 @@ You can do so with the command `make` in the folders
 
 The experiments described in the paper can be reproduced with scripts included in this repository.
 
-First, download the .zip archive containing all datasets from the link http://tinyurl.com/SamRuLedatasets
+First, download the .zip archive containing all datasets from the link http://tinyurl.com/SamRuLedata
 
 Extract the .zip archive creating the `data` folder.
 
